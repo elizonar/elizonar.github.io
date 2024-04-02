@@ -33,6 +33,14 @@ body {
 	line-height: 1;
 }
 
+.disc {
+ list-style-type: disc;
+}
+.square {
+ list-style-type: square;
+ margin-left: 2em;
+}
+
 ol, ul {
 	list-style: none;
 }
